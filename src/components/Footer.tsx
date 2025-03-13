@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="flex flex-col space-y-6 mt-8 p-6 bg-[#403D94] text-gray-300">
       <p className="bg-white w-fit py-2 px-6 font-bold text-[#161653] md:text-xl text-sm rounded-lg shadow-md">
-        Lorem Ipsum
+        Website To Learn
       </p>
       
       <div className="flex flex-col md:flex-row justify-between md:w-[900px] mx-auto space-y-10 md:space-y-0">
